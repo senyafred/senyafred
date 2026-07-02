@@ -1,6 +1,6 @@
 ## Hi, I'm Frederick Senya 👋
 
-**PhD Candidate in Mathematical Sciences** @ University of Vermont · **Computational & data modeler** · **Mathematics educator**
+**PhD Candidate in Mathematical Sciences** @ University of Vermont 
 
 I build mathematical models for real-world problems in biology, public health, and clinical data — then make the results clear to whoever needs them. First-author published, with 4+ years teaching university-level mathematics.
 
