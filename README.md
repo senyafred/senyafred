@@ -2,7 +2,7 @@
 
 **PhD Candidate in Mathematical Sciences** @ University of Vermont 
 
-I build mathematical models for real-world problems in biology, public health, and clinical data — then make the results clear to whoever needs them. First-author published, with 4+ years teaching university-level mathematics.
+I build mathematical models for real-world problems in biology, public health, and clinical data, then make the results clear to whoever needs them. First-author published, with 4+ years teaching university-level mathematics.
 
 📍 San Jose, CA · 📫 senyafrederick@gmail.com · 🔗 [LinkedIn](https://linkedin.com/in/frederick-senya)
 
